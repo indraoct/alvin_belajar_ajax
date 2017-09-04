@@ -41,4 +41,6 @@ How to use this code :
      
    ```
 4. To view the web on yor local computer then you can go to browser then access : http://alvin.dev . Happy Coding!!
+
+![Alt text](/screenshot/app_screenshot.png?raw=true "Web Screenshot")
    
